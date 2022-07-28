@@ -53,6 +53,8 @@ Log Manager
 
 **Data Structure:** Hashmap<String, Integer>
 
+**IDE:** Intellij
+
 ## Contributions
 
 **Contributor:** Yashank Tiwari
