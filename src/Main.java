@@ -68,7 +68,7 @@ public class Main {
             }
             logger.info("Reading words is complete");
 
-            if (findWord.length() == 0) { //If there is no word given, then print all the words with their occurrences
+            if (findWord == null || findWord.length() == 0) { //If there is no word given, then print all the words with their occurrences
                 for(Map.Entry<String, Integer> mapElement : map.entrySet()) {
                     System.out.println(mapElement.getKey() + " - " + mapElement.getValue());
                 }
