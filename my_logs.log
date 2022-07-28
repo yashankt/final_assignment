@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-27T12:35:43.353757800Z</date>
+  <millis>1658925343353</millis>
+  <nanos>757800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The path and the word are correctly fetched from the properties file.</message>
+</record>
+<record>
+  <date>2022-07-27T12:35:43.369377600Z</date>
+  <millis>1658925343369</millis>
+  <nanos>377600</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The file pointer is created correctly.</message>
+</record>
+<record>
+  <date>2022-07-27T12:35:43.384999300Z</date>
+  <millis>1658925343384</millis>
+  <nanos>999300</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The scanner object is created correctly.</message>
+</record>
+<record>
+  <date>2022-07-27T12:35:43.384999300Z</date>
+  <millis>1658925343384</millis>
+  <nanos>999300</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The hashmap has been created.</message>
+</record>
+<record>
+  <date>2022-07-27T12:35:43.384999300Z</date>
+  <millis>1658925343384</millis>
+  <nanos>999300</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words</message>
+</record>
+<record>
+  <date>2022-07-27T12:35:43.384999300Z</date>
+  <millis>1658925343384</millis>
+  <nanos>999300</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words</message>
+</record>
+<record>
+  <date>2022-07-27T12:35:43.384999300Z</date>
+  <millis>1658925343384</millis>
+  <nanos>999300</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words is complete</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-27T12:35:57.713656900Z</date>
+  <millis>1658925357713</millis>
+  <nanos>656900</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The path and the word are correctly fetched from the properties file.</message>
+</record>
+<record>
+  <date>2022-07-27T12:35:57.729279400Z</date>
+  <millis>1658925357729</millis>
+  <nanos>279400</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The file pointer is created correctly.</message>
+</record>
+<record>
+  <date>2022-07-27T12:35:57.745294700Z</date>
+  <millis>1658925357745</millis>
+  <nanos>294700</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The scanner object is created correctly.</message>
+</record>
+<record>
+  <date>2022-07-27T12:35:57.745294700Z</date>
+  <millis>1658925357745</millis>
+  <nanos>294700</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The hashmap has been created.</message>
+</record>
+<record>
+  <date>2022-07-27T12:35:57.745294700Z</date>
+  <millis>1658925357745</millis>
+  <nanos>294700</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words</message>
+</record>
+<record>
+  <date>2022-07-27T12:35:57.745294700Z</date>
+  <millis>1658925357745</millis>
+  <nanos>294700</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words</message>
+</record>
+<record>
+  <date>2022-07-27T12:35:57.745294700Z</date>
+  <millis>1658925357745</millis>
+  <nanos>294700</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words is complete</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-27T12:36:16.457590700Z</date>
+  <millis>1658925376457</millis>
+  <nanos>590700</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The path and the word are correctly fetched from the properties file.</message>
+</record>
+<record>
+  <date>2022-07-27T12:36:16.473211200Z</date>
+  <millis>1658925376473</millis>
+  <nanos>211200</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The file pointer is created correctly.</message>
+</record>
+<record>
+  <date>2022-07-27T12:36:16.489227500Z</date>
+  <millis>1658925376489</millis>
+  <nanos>227500</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The scanner object is created correctly.</message>
+</record>
+<record>
+  <date>2022-07-27T12:36:16.489227500Z</date>
+  <millis>1658925376489</millis>
+  <nanos>227500</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The hashmap has been created.</message>
+</record>
+<record>
+  <date>2022-07-27T12:36:16.489227500Z</date>
+  <millis>1658925376489</millis>
+  <nanos>227500</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words</message>
+</record>
+<record>
+  <date>2022-07-27T12:36:16.489227500Z</date>
+  <millis>1658925376489</millis>
+  <nanos>227500</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words</message>
+</record>
+<record>
+  <date>2022-07-27T12:36:16.489227500Z</date>
+  <millis>1658925376489</millis>
+  <nanos>227500</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words is complete</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-27T16:24:02.219416100Z</date>
+  <millis>1658939042219</millis>
+  <nanos>416100</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The path and the word are correctly fetched from the properties file.</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:02.238366300Z</date>
+  <millis>1658939042238</millis>
+  <nanos>366300</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The file pointer is created correctly.</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:02.269283800Z</date>
+  <millis>1658939042269</millis>
+  <nanos>283800</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The scanner object is created correctly.</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:02.269283800Z</date>
+  <millis>1658939042269</millis>
+  <nanos>283800</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The hashmap has been created.</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:02.290226600Z</date>
+  <millis>1658939042290</millis>
+  <nanos>226600</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:02.291225Z</date>
+  <millis>1658939042291</millis>
+  <nanos>225000</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:02.291225Z</date>
+  <millis>1658939042291</millis>
+  <nanos>225000</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words is complete</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-27T16:24:12.866770Z</date>
+  <millis>1658939052866</millis>
+  <nanos>770000</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The path and the word are correctly fetched from the properties file.</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:12.877739500Z</date>
+  <millis>1658939052877</millis>
+  <nanos>739500</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The file pointer is created correctly.</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:12.901674800Z</date>
+  <millis>1658939052901</millis>
+  <nanos>674800</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The scanner object is created correctly.</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:12.901674800Z</date>
+  <millis>1658939052901</millis>
+  <nanos>674800</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The hashmap has been created.</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:12.904666500Z</date>
+  <millis>1658939052904</millis>
+  <nanos>666500</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:12.905663500Z</date>
+  <millis>1658939052905</millis>
+  <nanos>663500</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:12.905663500Z</date>
+  <millis>1658939052905</millis>
+  <nanos>663500</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words is complete</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-27T16:24:26.660374800Z</date>
+  <millis>1658939066660</millis>
+  <nanos>374800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The path and the word are correctly fetched from the properties file.</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:26.671343500Z</date>
+  <millis>1658939066671</millis>
+  <nanos>343500</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The file pointer is created correctly.</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:26.690292100Z</date>
+  <millis>1658939066690</millis>
+  <nanos>292100</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The scanner object is created correctly.</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:26.691289600Z</date>
+  <millis>1658939066691</millis>
+  <nanos>289600</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The hashmap has been created.</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:26.693284400Z</date>
+  <millis>1658939066693</millis>
+  <nanos>284400</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:26.694281800Z</date>
+  <millis>1658939066694</millis>
+  <nanos>281800</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:26.694281800Z</date>
+  <millis>1658939066694</millis>
+  <nanos>281800</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words is complete</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-27T16:24:35.542232Z</date>
+  <millis>1658939075542</millis>
+  <nanos>232000</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The path and the word are correctly fetched from the properties file.</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:35.552206800Z</date>
+  <millis>1658939075552</millis>
+  <nanos>206800</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The file pointer is created correctly.</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:35.572151600Z</date>
+  <millis>1658939075572</millis>
+  <nanos>151600</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The scanner object is created correctly.</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:35.572151600Z</date>
+  <millis>1658939075572</millis>
+  <nanos>151600</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The hashmap has been created.</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:35.575144100Z</date>
+  <millis>1658939075575</millis>
+  <nanos>144100</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:35.575144100Z</date>
+  <millis>1658939075575</millis>
+  <nanos>144100</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words</message>
+</record>
+<record>
+  <date>2022-07-27T16:24:35.576141300Z</date>
+  <millis>1658939075576</millis>
+  <nanos>141300</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words is complete</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-27T16:25:05.095970200Z</date>
+  <millis>1658939105095</millis>
+  <nanos>970200</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The path and the word are correctly fetched from the properties file.</message>
+</record>
+<record>
+  <date>2022-07-27T16:25:05.105943200Z</date>
+  <millis>1658939105105</millis>
+  <nanos>943200</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The file pointer is created correctly.</message>
+</record>
+<record>
+  <date>2022-07-27T16:25:05.129880200Z</date>
+  <millis>1658939105129</millis>
+  <nanos>880200</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The scanner object is created correctly.</message>
+</record>
+<record>
+  <date>2022-07-27T16:25:05.129880200Z</date>
+  <millis>1658939105129</millis>
+  <nanos>880200</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The hashmap has been created.</message>
+</record>
+<record>
+  <date>2022-07-27T16:25:05.132872400Z</date>
+  <millis>1658939105132</millis>
+  <nanos>872400</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words</message>
+</record>
+<record>
+  <date>2022-07-27T16:25:05.133869200Z</date>
+  <millis>1658939105133</millis>
+  <nanos>869200</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words</message>
+</record>
+<record>
+  <date>2022-07-27T16:25:05.133869200Z</date>
+  <millis>1658939105133</millis>
+  <nanos>869200</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reading words is complete</message>
+</record>
+</log>
