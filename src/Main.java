@@ -48,14 +48,12 @@ public class Main {
             Scanner scan = new Scanner(file);
             logger.info("The scanner object is created correctly.");
 
-            //Creating a Hashmap object to store the unique words and their occurrences in the file
             HashMap<String, Integer> map = new HashMap<>();
             logger.info("The hashmap has been created.");
 
-            //Running a loop from first line to last line of the file
             while (scan.hasNextLine()) {
                 logger.info("Reading words");
-                //Storing the words from the file in a String array by using the split function
+
                 String[] words = scan.nextLine().split(" ");
 
                 //Running a loop to put the words and their occurrences in the map
